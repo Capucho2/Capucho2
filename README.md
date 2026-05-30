@@ -1,16 +1,57 @@
-## Hi there 👋
+# Olá, eu sou Abrahão Felipe Rego Capucho 👋
 
-<!--
-**Capucho2/Capucho2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Estudante de Redes de Computadores pela Estácio e Técnico em Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência prática em infraestrutura de TI adquirida durante estágio no Instituto Federal do Sudeste de Minas Gerais – Campus Avançado Cataguases.
+
+Atualmente atuo como Auxiliar Administrativo através da Solve Consultoria e Projetos LTDA, prestando suporte às atividades administrativas do Instituto Federal.
+
+## Experiência em TI
+
+* Suporte Técnico
+* Linux Server
+* Windows Server
+* Redes de Computadores
+* TCP/IP
+* Cabeamento Estruturado
+* Montagem de Rack
+* Configuração de Roteadores
+* Configuração de Switches
+* Backup de Dados
+* Infraestrutura de TI
+
+## Projeto Destacado
+
+### Migração da Infraestrutura de Rede
+
+Participação na mudança de prédio do IF Sudeste MG – Campus Avançado Cataguases, auxiliando na montagem de racks, organização de cabeamento estruturado, configuração básica de servidores, configuração de equipamentos de rede, preparação de estações de trabalho e suporte à migração dos serviços de TI.
+
+## Formação
+
+* Tecnólogo em Redes de Computadores (Estácio) – Em andamento
+* Técnico em Informática
+
+## Certificações
+
+* Banco de Dados SQL
+* Infraestrutura de T.I. – Rio Pomba Valley
+* Microsoft Excel
+* Microsoft Word
+* Windows
+
+## Competências
+
+* Redes de Computadores
+* Linux Server
+* TCP/IP
+* Banco de Dados SQL
+* Microsoft Excel
+* Suporte Técnico
+* Infraestrutura de TI
+
+## Contato
+
+Email: [capucho2@gmail.com)
+Telefone: (91) 9 9242-0908
